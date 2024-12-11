@@ -1,0 +1,659 @@
+Image Name,Accuracy,Predicted Class,Luxes
+new_images/NORMAL/protoboard/protoboard_1.jpg,0.9597715,protoboard,1613.0
+new_images/NORMAL/protoboard/protoboard_2.jpg,0.98168486,protoboard,1558.0
+new_images/NORMAL/protoboard/protoboard_3.jpg,0.9708692,protoboard,1503.0
+new_images/NORMAL/protoboard/protoboard_4.jpg,0.96130073,protoboard,1448.0
+new_images/NORMAL/protoboard/protoboard_5.jpg,0.9623414,protoboard,1393.0
+new_images/NORMAL/protoboard/protoboard_6.jpg,0.94958127,protoboard,1338.0
+new_images/NORMAL/protoboard/protoboard_7.jpg,0.9656832,protoboard,1283.0
+new_images/NORMAL/protoboard/protoboard_8.jpg,0.97124934,protoboard,1226.0
+new_images/NORMAL/protoboard/protoboard_9.jpg,0.96222484,protoboard,1171.0
+new_images/NORMAL/protoboard/protoboard_10.jpg,0.98046994,protoboard,1108.0
+new_images/NORMAL/protoboard/protoboard_11.jpg,0.9807962,protoboard,1047.0
+new_images/NORMAL/protoboard/protoboard_12.jpg,0.9718388,protoboard,983.0
+new_images/NORMAL/protoboard/protoboard_13.jpg,0.97732705,protoboard,927.0
+new_images/NORMAL/protoboard/protoboard_14.jpg,0.97012484,protoboard,860.0
+new_images/NORMAL/protoboard/protoboard_15.jpg,0.9777156,protoboard,790.0
+new_images/NORMAL/protoboard/protoboard_16.jpg,0.9715709,protoboard,719.0
+new_images/NORMAL/protoboard/protoboard_17.jpg,0.9694279,protoboard,649.0
+new_images/NORMAL/protoboard/protoboard_18.jpg,0.9754611,protoboard,574.0
+new_images/NORMAL/protoboard/protoboard_19.jpg,0.98793465,protoboard,494.0
+new_images/NORMAL/protoboard/protoboard_20.jpg,0.98762894,protoboard,416.0
+new_images/NORMAL/protoboard/protoboard_21.jpg,0.99013275,protoboard,337.6
+new_images/NORMAL/protoboard/protoboard_22.jpg,0.9909354,protoboard,256.1
+new_images/NORMAL/protoboard/protoboard_23.jpg,0.9868331,protoboard,173.4
+new_images/NORMAL/protoboard/protoboard_24.jpg,0.96254146,protoboard,88.1
+new_images/NORMAL/protoboard/protoboard_25.jpg,0.9493128,protoboard,175.1
+new_images/NORMAL/protoboard/protoboard_26.jpg,0.9724963,protoboard,260.9
+new_images/NORMAL/protoboard/protoboard_27.jpg,0.98057044,protoboard,344.7
+new_images/NORMAL/protoboard/protoboard_28.jpg,0.982669,protoboard,428.0
+new_images/NORMAL/protoboard/protoboard_29.jpg,0.9865351,protoboard,510.0
+new_images/NORMAL/protoboard/protoboard_30.jpg,0.9860621,protoboard,594.0
+new_images/NORMAL/protoboard/protoboard_31.jpg,0.9757056,protoboard,672.0
+new_images/NORMAL/protoboard/protoboard_32.jpg,0.97160214,protoboard,752.0
+new_images/NORMAL/protoboard/protoboard_33.jpg,0.97980344,protoboard,798.0
+new_images/NORMAL/protoboard/protoboard_34.jpg,0.95448625,protoboard,827.0
+new_images/NORMAL/protoboard/protoboard_35.jpg,0.9706382,protoboard,901.0
+new_images/NORMAL/protoboard/protoboard_36.jpg,0.96891546,protoboard,973.0
+new_images/NORMAL/protoboard/protoboard_37.jpg,0.97297716,protoboard,1037.0
+new_images/NORMAL/protoboard/protoboard_38.jpg,0.96871555,protoboard,1104.0
+new_images/NORMAL/protoboard/protoboard_39.jpg,0.9596106,protoboard,1170.0
+new_images/NORMAL/protoboard/protoboard_40.jpg,0.96705943,protoboard,1235.0
+new_images/NORMAL/protoboard/protoboard_41.jpg,0.9608291,protoboard,1299.0
+new_images/NORMAL/protoboard/protoboard_42.jpg,0.9567228,protoboard,1359.0
+new_images/NORMAL/protoboard/protoboard_43.jpg,0.9616359,protoboard,1419.0
+new_images/NORMAL/protoboard/protoboard_44.jpg,0.96713966,protoboard,1474.0
+new_images/NORMAL/protoboard/protoboard_45.jpg,0.97539914,protoboard,1531.0
+new_images/NORMAL/protoboard/protoboard_46.jpg,0.9759038,protoboard,1583.0
+new_images/NORMAL/protoboard/protoboard_47.jpg,0.98255134,protoboard,1635.0
+new_images/NORMAL/airbuds/airbuds_1.jpg,0.97251725,earbuds,1613.0
+new_images/NORMAL/airbuds/airbuds_2.jpg,0.9829636,earbuds,1558.0
+new_images/NORMAL/airbuds/airbuds_3.jpg,0.9717248,earbuds,1503.0
+new_images/NORMAL/airbuds/airbuds_4.jpg,0.9735258,earbuds,1448.0
+new_images/NORMAL/airbuds/airbuds_5.jpg,0.9780845,earbuds,1393.0
+new_images/NORMAL/airbuds/airbuds_6.jpg,0.9827804,earbuds,1338.0
+new_images/NORMAL/airbuds/airbuds_7.jpg,0.98120713,earbuds,1283.0
+new_images/NORMAL/airbuds/airbuds_8.jpg,0.98129916,earbuds,1226.0
+new_images/NORMAL/airbuds/airbuds_9.jpg,0.9752705,earbuds,1171.0
+new_images/NORMAL/airbuds/airbuds_10.jpg,0.98176116,earbuds,1108.0
+new_images/NORMAL/airbuds/airbuds_11.jpg,0.97881854,earbuds,1047.0
+new_images/NORMAL/airbuds/airbuds_12.jpg,0.9605865,earbuds,983.0
+new_images/NORMAL/airbuds/airbuds_13.jpg,0.9573718,earbuds,927.0
+new_images/NORMAL/airbuds/airbuds_14.jpg,0.9817078,earbuds,860.0
+new_images/NORMAL/airbuds/airbuds_15.jpg,0.9792731,earbuds,790.0
+new_images/NORMAL/airbuds/airbuds_16.jpg,0.9839522,earbuds,719.0
+new_images/NORMAL/airbuds/airbuds_17.jpg,0.9799709,earbuds,649.0
+new_images/NORMAL/airbuds/airbuds_18.jpg,0.9806669,earbuds,574.0
+new_images/NORMAL/airbuds/airbuds_19.jpg,0.97972274,earbuds,494.0
+new_images/NORMAL/airbuds/airbuds_20.jpg,0.9688624,earbuds,416.0
+new_images/NORMAL/airbuds/airbuds_21.jpg,0.97895706,earbuds,337.6
+new_images/NORMAL/airbuds/airbuds_22.jpg,0.93205386,earbuds,256.1
+new_images/NORMAL/airbuds/airbuds_23.jpg,0.98370373,earbuds,173.4
+new_images/NORMAL/airbuds/airbuds_24.jpg,0.982147,earbuds,88.1
+new_images/NORMAL/airbuds/airbuds_25.jpg,0.9740794,earbuds,175.1
+new_images/NORMAL/airbuds/airbuds_26.jpg,0.9835031,earbuds,260.9
+new_images/NORMAL/airbuds/airbuds_27.jpg,0.983377,earbuds,344.7
+new_images/NORMAL/airbuds/airbuds_28.jpg,0.96429855,earbuds,428.0
+new_images/NORMAL/airbuds/airbuds_29.jpg,0.9774527,earbuds,510.0
+new_images/NORMAL/airbuds/airbuds_30.jpg,0.9753482,earbuds,594.0
+new_images/NORMAL/airbuds/airbuds_31.jpg,0.98464686,earbuds,672.0
+new_images/NORMAL/airbuds/airbuds_32.jpg,0.98479366,earbuds,752.0
+new_images/NORMAL/airbuds/airbuds_33.jpg,0.9784328,earbuds,798.0
+new_images/NORMAL/airbuds/airbuds_34.jpg,0.97531104,earbuds,827.0
+new_images/NORMAL/airbuds/airbuds_35.jpg,0.9826577,earbuds,901.0
+new_images/NORMAL/airbuds/airbuds_36.jpg,0.98378366,earbuds,973.0
+new_images/NORMAL/airbuds/airbuds_37.jpg,0.9757577,earbuds,1037.0
+new_images/NORMAL/airbuds/airbuds_38.jpg,0.97999954,earbuds,1104.0
+new_images/NORMAL/airbuds/airbuds_39.jpg,0.9711339,earbuds,1170.0
+new_images/NORMAL/airbuds/airbuds_40.jpg,0.978264,earbuds,1235.0
+new_images/NORMAL/airbuds/airbuds_41.jpg,0.9747236,earbuds,1299.0
+new_images/NORMAL/airbuds/airbuds_42.jpg,0.9693568,earbuds,1359.0
+new_images/NORMAL/airbuds/airbuds_43.jpg,0.9809667,earbuds,1419.0
+new_images/NORMAL/airbuds/airbuds_44.jpg,0.9751364,earbuds,1474.0
+new_images/NORMAL/airbuds/airbuds_45.jpg,0.98315716,earbuds,1531.0
+new_images/NORMAL/airbuds/airbuds_46.jpg,0.9850218,earbuds,1583.0
+new_images/NORMAL/airbuds/airbuds_47.jpg,0.97714657,earbuds,1635.0
+new_images/NORMAL/lego/lego_1.jpg,0.87407553,lego figure,1613.0
+new_images/NORMAL/lego/lego_2.jpg,0.80999863,lego figure,1558.0
+new_images/NORMAL/lego/lego_3.jpg,0.7973,lego figure,1503.0
+new_images/NORMAL/lego/lego_4.jpg,0.7925152,lego figure,1448.0
+new_images/NORMAL/lego/lego_5.jpg,0.8501921,lego figure,1393.0
+new_images/NORMAL/lego/lego_6.jpg,0.79519755,lego figure,1338.0
+new_images/NORMAL/lego/lego_7.jpg,0.8278011,lego figure,1283.0
+new_images/NORMAL/lego/lego_8.jpg,0.8027521,lego figure,1226.0
+new_images/NORMAL/lego/lego_9.jpg,0.8392566,lego figure,1171.0
+new_images/NORMAL/lego/lego_10.jpg,0.80651414,lego figure,1108.0
+new_images/NORMAL/lego/lego_11.jpg,0.84618884,lego figure,1047.0
+new_images/NORMAL/lego/lego_12.jpg,0.8391844,lego figure,983.0
+new_images/NORMAL/lego/lego_13.jpg,0.87302345,lego figure,927.0
+new_images/NORMAL/lego/lego_14.jpg,0.85747945,lego figure,860.0
+new_images/NORMAL/lego/lego_15.jpg,0.858939,lego figure,790.0
+new_images/NORMAL/lego/lego_16.jpg,0.81270534,lego figure,719.0
+new_images/NORMAL/lego/lego_17.jpg,0.86240965,lego figure,649.0
+new_images/NORMAL/lego/lego_18.jpg,0.8164193,lego figure,574.0
+new_images/NORMAL/lego/lego_19.jpg,0.85769385,lego figure,494.0
+new_images/NORMAL/lego/lego_20.jpg,0.8108174,lego figure,416.0
+new_images/NORMAL/lego/lego_21.jpg,0.83486795,lego figure,337.6
+new_images/NORMAL/lego/lego_22.jpg,0.88017136,lego figure,256.1
+new_images/NORMAL/lego/lego_23.jpg,0.84544885,lego figure,173.4
+new_images/NORMAL/lego/lego_24.jpg,0.8315412,lego figure,88.1
+new_images/NORMAL/lego/lego_25.jpg,0.8460183,lego figure,175.1
+new_images/NORMAL/lego/lego_26.jpg,0.8234013,lego figure,260.9
+new_images/NORMAL/lego/lego_27.jpg,0.8399321,lego figure,344.7
+new_images/NORMAL/lego/lego_28.jpg,0.82631797,lego figure,428.0
+new_images/NORMAL/lego/lego_29.jpg,0.82776,lego figure,510.0
+new_images/NORMAL/lego/lego_30.jpg,0.8439301,lego figure,594.0
+new_images/NORMAL/lego/lego_31.jpg,0.8797845,lego figure,672.0
+new_images/NORMAL/lego/lego_32.jpg,0.7617024,lego figure,752.0
+new_images/NORMAL/lego/lego_33.jpg,0.82034254,lego figure,798.0
+new_images/NORMAL/lego/lego_34.jpg,0.8248098,lego figure,827.0
+new_images/NORMAL/lego/lego_35.jpg,0.90075475,lego figure,901.0
+new_images/NORMAL/lego/lego_36.jpg,0.8546224,lego figure,973.0
+new_images/NORMAL/lego/lego_37.jpg,0.8122804,lego figure,1037.0
+new_images/NORMAL/lego/lego_38.jpg,0.81834936,lego figure,1104.0
+new_images/NORMAL/lego/lego_39.jpg,0.8102244,lego figure,1170.0
+new_images/NORMAL/lego/lego_40.jpg,0.87116915,lego figure,1235.0
+new_images/NORMAL/lego/lego_41.jpg,0.81398165,lego figure,1299.0
+new_images/NORMAL/lego/lego_42.jpg,0.86201847,lego figure,1359.0
+new_images/NORMAL/lego/lego_43.jpg,0.8467945,lego figure,1419.0
+new_images/NORMAL/lego/lego_44.jpg,0.8311012,lego figure,1474.0
+new_images/NORMAL/lego/lego_45.jpg,0.8557417,lego figure,1531.0
+new_images/NORMAL/lego/lego_46.jpg,0.8045527,lego figure,1583.0
+new_images/NORMAL/lego/lego_47.jpg,0.85984814,lego figure,1635.0
+new_images/NORMAL/pen/pen_1.jpg,0.30469573,pen,1613.0
+new_images/NORMAL/pen/pen_2.jpg,0.0,None,1558.0
+new_images/NORMAL/pen/pen_3.jpg,0.31885323,pen,1503.0
+new_images/NORMAL/pen/pen_4.jpg,0.30559897,pen,1448.0
+new_images/NORMAL/pen/pen_5.jpg,0.29045418,pen,1393.0
+new_images/NORMAL/pen/pen_6.jpg,0.30399385,pen,1338.0
+new_images/NORMAL/pen/pen_7.jpg,0.0,None,1283.0
+new_images/NORMAL/pen/pen_8.jpg,0.0,None,1226.0
+new_images/NORMAL/pen/pen_9.jpg,0.0,None,1171.0
+new_images/NORMAL/pen/pen_10.jpg,0.38611352,pen,1108.0
+new_images/NORMAL/pen/pen_11.jpg,0.30016407,pen,1047.0
+new_images/NORMAL/pen/pen_12.jpg,0.27656677,pen,983.0
+new_images/NORMAL/pen/pen_13.jpg,0.2951026,pen,927.0
+new_images/NORMAL/pen/pen_14.jpg,0.3448707,pen,860.0
+new_images/NORMAL/pen/pen_15.jpg,0.44089863,pen,790.0
+new_images/NORMAL/pen/pen_16.jpg,0.2686767,pen,719.0
+new_images/NORMAL/pen/pen_17.jpg,0.28513888,pen,649.0
+new_images/NORMAL/pen/pen_18.jpg,0.3675943,pen,574.0
+new_images/NORMAL/pen/pen_19.jpg,0.31763232,pen,494.0
+new_images/NORMAL/pen/pen_20.jpg,0.0,None,416.0
+new_images/NORMAL/pen/pen_21.jpg,0.2854859,pen,337.6
+new_images/NORMAL/pen/pen_22.jpg,0.37853196,pen,256.1
+new_images/NORMAL/pen/pen_23.jpg,0.0,None,173.4
+new_images/NORMAL/pen/pen_24.jpg,0.440034,pen,88.1
+new_images/NORMAL/pen/pen_25.jpg,0.26539716,pen,175.1
+new_images/NORMAL/pen/pen_26.jpg,0.32705918,pen,260.9
+new_images/NORMAL/pen/pen_27.jpg,0.29681197,pen,344.7
+new_images/NORMAL/pen/pen_28.jpg,0.36233634,pen,428.0
+new_images/NORMAL/pen/pen_29.jpg,0.28109106,pen,510.0
+new_images/NORMAL/pen/pen_30.jpg,0.29727933,pen,594.0
+new_images/NORMAL/pen/pen_31.jpg,0.3721591,pen,672.0
+new_images/NORMAL/pen/pen_32.jpg,0.30366823,pen,752.0
+new_images/NORMAL/pen/pen_33.jpg,0.3361765,pen,798.0
+new_images/NORMAL/pen/pen_34.jpg,0.26118714,pen,827.0
+new_images/NORMAL/pen/pen_35.jpg,0.0,None,901.0
+new_images/NORMAL/pen/pen_36.jpg,0.2977955,pen,973.0
+new_images/NORMAL/pen/pen_37.jpg,0.36603853,pen,1037.0
+new_images/NORMAL/pen/pen_38.jpg,0.0,None,1104.0
+new_images/NORMAL/pen/pen_39.jpg,0.31819087,pen,1170.0
+new_images/NORMAL/pen/pen_40.jpg,0.38896465,pen,1235.0
+new_images/NORMAL/pen/pen_41.jpg,0.0,None,1299.0
+new_images/NORMAL/pen/pen_42.jpg,0.2500313,pen,1359.0
+new_images/NORMAL/pen/pen_43.jpg,0.25921938,pen,1419.0
+new_images/NORMAL/pen/pen_44.jpg,0.0,None,1474.0
+new_images/NORMAL/pen/pen_45.jpg,0.39466885,pen,1531.0
+new_images/NORMAL/pen/pen_46.jpg,0.0,None,1583.0
+new_images/NORMAL/pen/pen_47.jpg,0.0,None,1635.0
+new_images/NORMAL/fork/fork_1.jpg,0.9513901,fork,1613.0
+new_images/NORMAL/fork/fork_2.jpg,0.8842555,fork,1558.0
+new_images/NORMAL/fork/fork_3.jpg,0.96074706,fork,1503.0
+new_images/NORMAL/fork/fork_4.jpg,0.8240608,fork,1448.0
+new_images/NORMAL/fork/fork_5.jpg,0.85876065,fork,1393.0
+new_images/NORMAL/fork/fork_6.jpg,0.85193527,fork,1338.0
+new_images/NORMAL/fork/fork_7.jpg,0.7998469,fork,1283.0
+new_images/NORMAL/fork/fork_8.jpg,0.9380421,fork,1226.0
+new_images/NORMAL/fork/fork_9.jpg,0.811122,fork,1171.0
+new_images/NORMAL/fork/fork_10.jpg,0.83937603,fork,1108.0
+new_images/NORMAL/fork/fork_11.jpg,0.8656179,fork,1047.0
+new_images/NORMAL/fork/fork_12.jpg,0.9439793,fork,983.0
+new_images/NORMAL/fork/fork_13.jpg,0.9546978,fork,927.0
+new_images/NORMAL/fork/fork_14.jpg,0.90982735,fork,860.0
+new_images/NORMAL/fork/fork_15.jpg,0.9160647,fork,790.0
+new_images/NORMAL/fork/fork_16.jpg,0.9563874,fork,719.0
+new_images/NORMAL/fork/fork_17.jpg,0.83551127,fork,649.0
+new_images/NORMAL/fork/fork_18.jpg,0.81627977,fork,574.0
+new_images/NORMAL/fork/fork_19.jpg,0.9289005,fork,494.0
+new_images/NORMAL/fork/fork_20.jpg,0.87536544,fork,416.0
+new_images/NORMAL/fork/fork_21.jpg,0.94298106,fork,337.6
+new_images/NORMAL/fork/fork_22.jpg,0.90076745,fork,256.1
+new_images/NORMAL/fork/fork_23.jpg,0.9005459,fork,173.4
+new_images/NORMAL/fork/fork_24.jpg,0.82943064,fork,88.1
+new_images/NORMAL/fork/fork_25.jpg,0.921987,fork,175.1
+new_images/NORMAL/fork/fork_26.jpg,0.8573831,fork,260.9
+new_images/NORMAL/fork/fork_27.jpg,0.957141,fork,344.7
+new_images/NORMAL/fork/fork_28.jpg,0.7239802,fork,428.0
+new_images/NORMAL/fork/fork_29.jpg,0.94676006,fork,510.0
+new_images/NORMAL/fork/fork_30.jpg,0.8652046,fork,594.0
+new_images/NORMAL/fork/fork_31.jpg,0.9378934,fork,672.0
+new_images/NORMAL/fork/fork_32.jpg,0.9545599,fork,752.0
+new_images/NORMAL/fork/fork_33.jpg,0.8259362,fork,798.0
+new_images/NORMAL/fork/fork_34.jpg,0.9126993,fork,827.0
+new_images/NORMAL/fork/fork_35.jpg,0.9721599,fork,901.0
+new_images/NORMAL/fork/fork_36.jpg,0.0,None,973.0
+new_images/NORMAL/fork/fork_37.jpg,0.85639715,fork,1037.0
+new_images/NORMAL/fork/fork_38.jpg,0.8379679,fork,1104.0
+new_images/NORMAL/fork/fork_39.jpg,0.8578629,fork,1170.0
+new_images/NORMAL/fork/fork_40.jpg,0.95147496,fork,1235.0
+new_images/NORMAL/fork/fork_41.jpg,0.80491877,fork,1299.0
+new_images/NORMAL/fork/fork_42.jpg,0.93222713,fork,1359.0
+new_images/NORMAL/fork/fork_43.jpg,0.5671626,fork,1419.0
+new_images/NORMAL/fork/fork_44.jpg,0.938033,fork,1474.0
+new_images/NORMAL/fork/fork_45.jpg,0.91342676,fork,1531.0
+new_images/NORMAL/fork/fork_46.jpg,0.6764977,fork,1583.0
+new_images/NORMAL/fork/fork_47.jpg,0.93644273,fork,1635.0
+new_images/NORMAL/marker/marker_1.jpg,0.9351118,marker,1613.0
+new_images/NORMAL/marker/marker_2.jpg,0.6587517,marker,1558.0
+new_images/NORMAL/marker/marker_3.jpg,0.74244213,marker,1503.0
+new_images/NORMAL/marker/marker_4.jpg,0.89222574,marker,1448.0
+new_images/NORMAL/marker/marker_5.jpg,0.8514974,marker,1393.0
+new_images/NORMAL/marker/marker_6.jpg,0.92122036,marker,1338.0
+new_images/NORMAL/marker/marker_7.jpg,0.907309,marker,1283.0
+new_images/NORMAL/marker/marker_8.jpg,0.8003806,marker,1226.0
+new_images/NORMAL/marker/marker_9.jpg,0.34746137,marker,1171.0
+new_images/NORMAL/marker/marker_10.jpg,0.70443213,marker,1108.0
+new_images/NORMAL/marker/marker_11.jpg,0.0,None,1047.0
+new_images/NORMAL/marker/marker_12.jpg,0.8338083,marker,983.0
+new_images/NORMAL/marker/marker_13.jpg,0.8456273,marker,927.0
+new_images/NORMAL/marker/marker_14.jpg,0.883159,marker,860.0
+new_images/NORMAL/marker/marker_15.jpg,0.75918525,marker,790.0
+new_images/NORMAL/marker/marker_16.jpg,0.8217599,marker,719.0
+new_images/NORMAL/marker/marker_17.jpg,0.41347122,marker,649.0
+new_images/NORMAL/marker/marker_18.jpg,0.51430595,marker,574.0
+new_images/NORMAL/marker/marker_19.jpg,0.8762743,marker,494.0
+new_images/NORMAL/marker/marker_20.jpg,0.73569775,marker,416.0
+new_images/NORMAL/marker/marker_21.jpg,0.7471994,marker,337.6
+new_images/NORMAL/marker/marker_22.jpg,0.40783605,marker,256.1
+new_images/NORMAL/marker/marker_23.jpg,0.79127777,marker,173.4
+new_images/NORMAL/marker/marker_24.jpg,0.9000621,marker,88.1
+new_images/NORMAL/marker/marker_25.jpg,0.87594694,marker,175.1
+new_images/NORMAL/marker/marker_26.jpg,0.7863598,marker,260.9
+new_images/NORMAL/marker/marker_27.jpg,0.41404775,marker,344.7
+new_images/NORMAL/marker/marker_28.jpg,0.4581587,marker,428.0
+new_images/NORMAL/marker/marker_29.jpg,0.45470336,marker,510.0
+new_images/NORMAL/marker/marker_30.jpg,0.75381464,marker,594.0
+new_images/NORMAL/marker/marker_31.jpg,0.69886005,marker,672.0
+new_images/NORMAL/marker/marker_32.jpg,0.4521579,marker,752.0
+new_images/NORMAL/marker/marker_33.jpg,0.7564196,marker,798.0
+new_images/NORMAL/marker/marker_34.jpg,0.8828398,marker,827.0
+new_images/NORMAL/marker/marker_35.jpg,0.71705717,marker,901.0
+new_images/NORMAL/marker/marker_36.jpg,0.5180168,marker,973.0
+new_images/NORMAL/marker/marker_37.jpg,0.8347973,marker,1037.0
+new_images/NORMAL/marker/marker_38.jpg,0.6275346,marker,1104.0
+new_images/NORMAL/marker/marker_39.jpg,0.35442802,marker,1170.0
+new_images/NORMAL/marker/marker_40.jpg,0.46458477,marker,1235.0
+new_images/NORMAL/marker/marker_41.jpg,0.7780558,marker,1299.0
+new_images/NORMAL/marker/marker_42.jpg,0.61211693,marker,1359.0
+new_images/NORMAL/marker/marker_43.jpg,0.91921663,marker,1419.0
+new_images/NORMAL/marker/marker_44.jpg,0.63677144,marker,1474.0
+new_images/NORMAL/marker/marker_45.jpg,0.7853067,marker,1531.0
+new_images/NORMAL/marker/marker_46.jpg,0.78515506,marker,1583.0
+new_images/NORMAL/marker/marker_47.jpg,0.7475223,marker,1635.0
+new_images/NORMAL/arduino/arduino_1.jpg,0.97088397,arduino,1613.0
+new_images/NORMAL/arduino/arduino_2.jpg,0.97500676,arduino,1558.0
+new_images/NORMAL/arduino/arduino_3.jpg,0.9746931,arduino,1503.0
+new_images/NORMAL/arduino/arduino_4.jpg,0.9722909,arduino,1448.0
+new_images/NORMAL/arduino/arduino_5.jpg,0.969375,arduino,1393.0
+new_images/NORMAL/arduino/arduino_6.jpg,0.9691007,arduino,1338.0
+new_images/NORMAL/arduino/arduino_7.jpg,0.9716085,arduino,1283.0
+new_images/NORMAL/arduino/arduino_8.jpg,0.9755396,arduino,1226.0
+new_images/NORMAL/arduino/arduino_9.jpg,0.9801288,arduino,1171.0
+new_images/NORMAL/arduino/arduino_10.jpg,0.9657559,arduino,1108.0
+new_images/NORMAL/arduino/arduino_11.jpg,0.98057896,arduino,1047.0
+new_images/NORMAL/arduino/arduino_12.jpg,0.9798461,arduino,983.0
+new_images/NORMAL/arduino/arduino_13.jpg,0.95412296,arduino,927.0
+new_images/NORMAL/arduino/arduino_14.jpg,0.98564476,arduino,860.0
+new_images/NORMAL/arduino/arduino_15.jpg,0.9730792,arduino,790.0
+new_images/NORMAL/arduino/arduino_16.jpg,0.9801656,arduino,719.0
+new_images/NORMAL/arduino/arduino_17.jpg,0.98430663,arduino,649.0
+new_images/NORMAL/arduino/arduino_18.jpg,0.99062085,arduino,574.0
+new_images/NORMAL/arduino/arduino_19.jpg,0.9944763,arduino,494.0
+new_images/NORMAL/arduino/arduino_20.jpg,0.99051285,arduino,416.0
+new_images/NORMAL/arduino/arduino_21.jpg,0.99021786,arduino,337.6
+new_images/NORMAL/arduino/arduino_22.jpg,0.9621598,arduino,256.1
+new_images/NORMAL/arduino/arduino_23.jpg,0.9831108,arduino,173.4
+new_images/NORMAL/arduino/arduino_24.jpg,0.9590124,arduino,88.1
+new_images/NORMAL/arduino/arduino_25.jpg,0.9921354,arduino,175.1
+new_images/NORMAL/arduino/arduino_26.jpg,0.9930997,arduino,260.9
+new_images/NORMAL/arduino/arduino_27.jpg,0.9928038,arduino,344.7
+new_images/NORMAL/arduino/arduino_28.jpg,0.98769665,arduino,428.0
+new_images/NORMAL/arduino/arduino_29.jpg,0.98909396,arduino,510.0
+new_images/NORMAL/arduino/arduino_30.jpg,0.9764842,arduino,594.0
+new_images/NORMAL/arduino/arduino_31.jpg,0.97969115,arduino,672.0
+new_images/NORMAL/arduino/arduino_32.jpg,0.98608303,arduino,752.0
+new_images/NORMAL/arduino/arduino_33.jpg,0.9836205,arduino,798.0
+new_images/NORMAL/arduino/arduino_34.jpg,0.98119414,arduino,827.0
+new_images/NORMAL/arduino/arduino_35.jpg,0.9816694,arduino,901.0
+new_images/NORMAL/arduino/arduino_36.jpg,0.97968316,arduino,973.0
+new_images/NORMAL/arduino/arduino_37.jpg,0.9825713,arduino,1037.0
+new_images/NORMAL/arduino/arduino_38.jpg,0.98184556,arduino,1104.0
+new_images/NORMAL/arduino/arduino_39.jpg,0.96878135,arduino,1170.0
+new_images/NORMAL/arduino/arduino_40.jpg,0.9865225,arduino,1235.0
+new_images/NORMAL/arduino/arduino_41.jpg,0.97950125,arduino,1299.0
+new_images/NORMAL/arduino/arduino_42.jpg,0.97658134,arduino,1359.0
+new_images/NORMAL/arduino/arduino_43.jpg,0.97895294,arduino,1419.0
+new_images/NORMAL/arduino/arduino_44.jpg,0.97964936,arduino,1474.0
+new_images/NORMAL/arduino/arduino_45.jpg,0.9799699,arduino,1531.0
+new_images/NORMAL/arduino/arduino_46.jpg,0.97959447,arduino,1583.0
+new_images/NORMAL/arduino/arduino_47.jpg,0.97524196,arduino,1635.0
+new_images/NO_IR/protoboard/protoboard_1.jpg,0.95128065,protoboard,1613.0
+new_images/NO_IR/protoboard/protoboard_2.jpg,0.94936997,esp32,1558.0
+new_images/NO_IR/protoboard/protoboard_3.jpg,0.954415,protoboard,1503.0
+new_images/NO_IR/protoboard/protoboard_4.jpg,0.95521486,esp32,1448.0
+new_images/NO_IR/protoboard/protoboard_5.jpg,0.95930874,esp32,1393.0
+new_images/NO_IR/protoboard/protoboard_6.jpg,0.9438529,protoboard,1338.0
+new_images/NO_IR/protoboard/protoboard_7.jpg,0.9568193,protoboard,1283.0
+new_images/NO_IR/protoboard/protoboard_8.jpg,0.93479013,protoboard,1226.0
+new_images/NO_IR/protoboard/protoboard_9.jpg,0.922515,protoboard,1171.0
+new_images/NO_IR/protoboard/protoboard_10.jpg,0.94610393,protoboard,1108.0
+new_images/NO_IR/protoboard/protoboard_11.jpg,0.9434559,esp32,1047.0
+new_images/NO_IR/protoboard/protoboard_12.jpg,0.97050005,esp32,983.0
+new_images/NO_IR/protoboard/protoboard_13.jpg,0.9418076,esp32,927.0
+new_images/NO_IR/protoboard/protoboard_14.jpg,0.9375192,protoboard,860.0
+new_images/NO_IR/protoboard/protoboard_15.jpg,0.9620077,protoboard,790.0
+new_images/NO_IR/protoboard/protoboard_16.jpg,0.9737977,protoboard,719.0
+new_images/NO_IR/protoboard/protoboard_17.jpg,0.98274827,esp32,649.0
+new_images/NO_IR/protoboard/protoboard_18.jpg,0.9418763,esp32,574.0
+new_images/NO_IR/protoboard/protoboard_19.jpg,0.95880973,esp32,494.0
+new_images/NO_IR/protoboard/protoboard_20.jpg,0.9890284,protoboard,416.0
+new_images/NO_IR/protoboard/protoboard_21.jpg,0.99042696,protoboard,337.6
+new_images/NO_IR/protoboard/protoboard_22.jpg,0.9846095,protoboard,256.1
+new_images/NO_IR/protoboard/protoboard_23.jpg,0.9438343,protoboard,173.4
+new_images/NO_IR/protoboard/protoboard_24.jpg,0.9550995,protoboard,88.1
+new_images/NO_IR/protoboard/protoboard_25.jpg,0.95076954,protoboard,175.1
+new_images/NO_IR/protoboard/protoboard_26.jpg,0.93100005,esp32,260.9
+new_images/NO_IR/protoboard/protoboard_27.jpg,0.9259404,protoboard,344.7
+new_images/NO_IR/protoboard/protoboard_28.jpg,0.93584394,protoboard,428.0
+new_images/NO_IR/protoboard/protoboard_29.jpg,0.95107156,protoboard,510.0
+new_images/NO_IR/protoboard/protoboard_30.jpg,0.93009806,protoboard,594.0
+new_images/NO_IR/protoboard/protoboard_31.jpg,0.98424864,protoboard,672.0
+new_images/NO_IR/protoboard/protoboard_32.jpg,0.9621667,esp32,752.0
+new_images/NO_IR/protoboard/protoboard_33.jpg,0.96064246,esp32,798.0
+new_images/NO_IR/protoboard/protoboard_34.jpg,0.9367981,protoboard,827.0
+new_images/NO_IR/protoboard/protoboard_35.jpg,0.9445324,protoboard,901.0
+new_images/NO_IR/protoboard/protoboard_36.jpg,0.9695318,esp32,973.0
+new_images/NO_IR/protoboard/protoboard_37.jpg,0.9752883,protoboard,1037.0
+new_images/NO_IR/protoboard/protoboard_38.jpg,0.9385628,protoboard,1104.0
+new_images/NO_IR/protoboard/protoboard_39.jpg,0.90150344,protoboard,1170.0
+new_images/NO_IR/protoboard/protoboard_40.jpg,0.9272067,protoboard,1235.0
+new_images/NO_IR/protoboard/protoboard_41.jpg,0.96037203,protoboard,1299.0
+new_images/NO_IR/protoboard/protoboard_42.jpg,0.9170559,protoboard,1359.0
+new_images/NO_IR/protoboard/protoboard_43.jpg,0.94636846,esp32,1419.0
+new_images/NO_IR/protoboard/protoboard_44.jpg,0.96029377,esp32,1474.0
+new_images/NO_IR/protoboard/protoboard_45.jpg,0.97842926,esp32,1531.0
+new_images/NO_IR/protoboard/protoboard_46.jpg,0.9894561,protoboard,1583.0
+new_images/NO_IR/protoboard/protoboard_47.jpg,0.983429,protoboard,1635.0
+new_images/NO_IR/airbuds/airbuds_1.jpg,0.8976719,earbuds,1613.0
+new_images/NO_IR/airbuds/airbuds_2.jpg,0.9098196,earbuds,1558.0
+new_images/NO_IR/airbuds/airbuds_3.jpg,0.9585467,earbuds,1503.0
+new_images/NO_IR/airbuds/airbuds_4.jpg,0.9650672,earbuds,1448.0
+new_images/NO_IR/airbuds/airbuds_5.jpg,0.94774365,earbuds,1393.0
+new_images/NO_IR/airbuds/airbuds_6.jpg,0.95369965,earbuds,1338.0
+new_images/NO_IR/airbuds/airbuds_7.jpg,0.9158943,earbuds,1283.0
+new_images/NO_IR/airbuds/airbuds_8.jpg,0.9499568,earbuds,1226.0
+new_images/NO_IR/airbuds/airbuds_9.jpg,0.9532707,earbuds,1171.0
+new_images/NO_IR/airbuds/airbuds_10.jpg,0.9679426,earbuds,1108.0
+new_images/NO_IR/airbuds/airbuds_11.jpg,0.9542251,earbuds,1047.0
+new_images/NO_IR/airbuds/airbuds_12.jpg,0.9694389,earbuds,983.0
+new_images/NO_IR/airbuds/airbuds_13.jpg,0.9681133,earbuds,927.0
+new_images/NO_IR/airbuds/airbuds_14.jpg,0.93376744,earbuds,860.0
+new_images/NO_IR/airbuds/airbuds_15.jpg,0.968403,earbuds,790.0
+new_images/NO_IR/airbuds/airbuds_16.jpg,0.96724695,earbuds,719.0
+new_images/NO_IR/airbuds/airbuds_17.jpg,0.952007,earbuds,649.0
+new_images/NO_IR/airbuds/airbuds_18.jpg,0.9278059,earbuds,574.0
+new_images/NO_IR/airbuds/airbuds_19.jpg,0.9478252,earbuds,494.0
+new_images/NO_IR/airbuds/airbuds_20.jpg,0.9413737,earbuds,416.0
+new_images/NO_IR/airbuds/airbuds_21.jpg,0.9508765,earbuds,337.6
+new_images/NO_IR/airbuds/airbuds_22.jpg,0.95835906,earbuds,256.1
+new_images/NO_IR/airbuds/airbuds_23.jpg,0.9357095,earbuds,173.4
+new_images/NO_IR/airbuds/airbuds_24.jpg,0.9460839,earbuds,88.1
+new_images/NO_IR/airbuds/airbuds_25.jpg,0.9510578,earbuds,175.1
+new_images/NO_IR/airbuds/airbuds_26.jpg,0.94958097,earbuds,260.9
+new_images/NO_IR/airbuds/airbuds_27.jpg,0.9526687,earbuds,344.7
+new_images/NO_IR/airbuds/airbuds_28.jpg,0.95895326,earbuds,428.0
+new_images/NO_IR/airbuds/airbuds_29.jpg,0.9305125,earbuds,510.0
+new_images/NO_IR/airbuds/airbuds_30.jpg,0.9478135,earbuds,594.0
+new_images/NO_IR/airbuds/airbuds_31.jpg,0.9414747,earbuds,672.0
+new_images/NO_IR/airbuds/airbuds_32.jpg,0.91977197,earbuds,752.0
+new_images/NO_IR/airbuds/airbuds_33.jpg,0.9161875,earbuds,798.0
+new_images/NO_IR/airbuds/airbuds_34.jpg,0.91129184,earbuds,827.0
+new_images/NO_IR/airbuds/airbuds_35.jpg,0.90468955,earbuds,901.0
+new_images/NO_IR/airbuds/airbuds_36.jpg,0.88069695,earbuds,973.0
+new_images/NO_IR/airbuds/airbuds_37.jpg,0.87595046,earbuds,1037.0
+new_images/NO_IR/airbuds/airbuds_38.jpg,0.88463473,earbuds,1104.0
+new_images/NO_IR/airbuds/airbuds_39.jpg,0.89084274,earbuds,1170.0
+new_images/NO_IR/airbuds/airbuds_40.jpg,0.91568935,earbuds,1235.0
+new_images/NO_IR/airbuds/airbuds_41.jpg,0.92724484,earbuds,1299.0
+new_images/NO_IR/airbuds/airbuds_42.jpg,0.9369719,earbuds,1359.0
+new_images/NO_IR/airbuds/airbuds_43.jpg,0.9446642,earbuds,1419.0
+new_images/NO_IR/airbuds/airbuds_44.jpg,0.9511288,earbuds,1474.0
+new_images/NO_IR/airbuds/airbuds_45.jpg,0.9224376,earbuds,1531.0
+new_images/NO_IR/airbuds/airbuds_46.jpg,0.9169536,earbuds,1583.0
+new_images/NO_IR/airbuds/airbuds_47.jpg,0.9206076,earbuds,1635.0
+new_images/NO_IR/lego/lego_1.jpg,0.661937,lego figure,1613.0
+new_images/NO_IR/lego/lego_2.jpg,0.812114,lego figure,1558.0
+new_images/NO_IR/lego/lego_3.jpg,0.9222379,lego figure,1503.0
+new_images/NO_IR/lego/lego_4.jpg,0.41043484,lego figure,1448.0
+new_images/NO_IR/lego/lego_5.jpg,0.72579694,lego figure,1393.0
+new_images/NO_IR/lego/lego_6.jpg,0.78654236,lego figure,1338.0
+new_images/NO_IR/lego/lego_7.jpg,0.72539854,pen,1283.0
+new_images/NO_IR/lego/lego_8.jpg,0.69699883,pen,1226.0
+new_images/NO_IR/lego/lego_9.jpg,0.7889845,lego figure,1171.0
+new_images/NO_IR/lego/lego_10.jpg,0.71763885,lego figure,1108.0
+new_images/NO_IR/lego/lego_11.jpg,0.68508196,pen,1047.0
+new_images/NO_IR/lego/lego_12.jpg,0.82142925,pen,983.0
+new_images/NO_IR/lego/lego_13.jpg,0.8397572,pen,927.0
+new_images/NO_IR/lego/lego_14.jpg,0.812609,pen,860.0
+new_images/NO_IR/lego/lego_15.jpg,0.84575474,pen,790.0
+new_images/NO_IR/lego/lego_16.jpg,0.45432818,lego figure,719.0
+new_images/NO_IR/lego/lego_17.jpg,0.6446565,lego figure,649.0
+new_images/NO_IR/lego/lego_18.jpg,0.3972944,lego figure,574.0
+new_images/NO_IR/lego/lego_19.jpg,0.5643219,lego figure,494.0
+new_images/NO_IR/lego/lego_20.jpg,0.7108698,lego figure,416.0
+new_images/NO_IR/lego/lego_21.jpg,0.33756983,lego figure,337.6
+new_images/NO_IR/lego/lego_22.jpg,0.0,None,256.1
+new_images/NO_IR/lego/lego_23.jpg,0.0,None,173.4
+new_images/NO_IR/lego/lego_24.jpg,0.34969467,lego figure,88.1
+new_images/NO_IR/lego/lego_25.jpg,0.0,None,175.1
+new_images/NO_IR/lego/lego_26.jpg,0.9375467,lego figure,260.9
+new_images/NO_IR/lego/lego_27.jpg,0.92354923,lego figure,344.7
+new_images/NO_IR/lego/lego_28.jpg,0.6957333,lego figure,428.0
+new_images/NO_IR/lego/lego_29.jpg,0.962788,lego figure,510.0
+new_images/NO_IR/lego/lego_30.jpg,0.6727823,lego figure,594.0
+new_images/NO_IR/lego/lego_31.jpg,0.54205513,lego figure,672.0
+new_images/NO_IR/lego/lego_32.jpg,0.6055112,lego figure,752.0
+new_images/NO_IR/lego/lego_33.jpg,0.82741034,lego figure,798.0
+new_images/NO_IR/lego/lego_34.jpg,0.9062465,lego figure,827.0
+new_images/NO_IR/lego/lego_35.jpg,0.9238107,lego figure,901.0
+new_images/NO_IR/lego/lego_36.jpg,0.36218253,lego figure,973.0
+new_images/NO_IR/lego/lego_37.jpg,0.9238107,lego figure,1037.0
+new_images/NO_IR/lego/lego_38.jpg,0.8577896,lego figure,1104.0
+new_images/NO_IR/lego/lego_39.jpg,0.8153101,lego figure,1170.0
+new_images/NO_IR/lego/lego_40.jpg,0.75535214,lego figure,1235.0
+new_images/NO_IR/lego/lego_41.jpg,0.76113945,lego figure,1299.0
+new_images/NO_IR/lego/lego_42.jpg,0.8048564,lego figure,1359.0
+new_images/NO_IR/lego/lego_43.jpg,0.70064694,lego figure,1419.0
+new_images/NO_IR/lego/lego_44.jpg,0.73336375,lego figure,1474.0
+new_images/NO_IR/lego/lego_45.jpg,0.74757004,lego figure,1531.0
+new_images/NO_IR/lego/lego_46.jpg,0.7866011,lego figure,1583.0
+new_images/NO_IR/lego/lego_47.jpg,0.83089626,lego figure,1635.0
+new_images/NO_IR/pen/pen_1.jpg,0.7409513,pen,1613.0
+new_images/NO_IR/pen/pen_2.jpg,0.75667983,pen,1558.0
+new_images/NO_IR/pen/pen_3.jpg,0.8047564,pen,1503.0
+new_images/NO_IR/pen/pen_4.jpg,0.81294537,pen,1448.0
+new_images/NO_IR/pen/pen_5.jpg,0.8174907,pen,1393.0
+new_images/NO_IR/pen/pen_6.jpg,0.8486874,pen,1338.0
+new_images/NO_IR/pen/pen_7.jpg,0.77052456,pen,1283.0
+new_images/NO_IR/pen/pen_8.jpg,0.82745606,pen,1226.0
+new_images/NO_IR/pen/pen_9.jpg,0.86396575,pen,1171.0
+new_images/NO_IR/pen/pen_10.jpg,0.8534725,pen,1108.0
+new_images/NO_IR/pen/pen_11.jpg,0.77101123,pen,1047.0
+new_images/NO_IR/pen/pen_12.jpg,0.8706366,pen,983.0
+new_images/NO_IR/pen/pen_13.jpg,0.90107495,pen,927.0
+new_images/NO_IR/pen/pen_14.jpg,0.9406408,pen,860.0
+new_images/NO_IR/pen/pen_15.jpg,0.8412105,pen,790.0
+new_images/NO_IR/pen/pen_16.jpg,0.9191587,pen,719.0
+new_images/NO_IR/pen/pen_17.jpg,0.8140495,pen,649.0
+new_images/NO_IR/pen/pen_18.jpg,0.71290565,pen,574.0
+new_images/NO_IR/pen/pen_19.jpg,0.8478735,pen,494.0
+new_images/NO_IR/pen/pen_20.jpg,0.8273016,pen,416.0
+new_images/NO_IR/pen/pen_21.jpg,0.79705405,pen,337.6
+new_images/NO_IR/pen/pen_22.jpg,0.6606887,pen,256.1
+new_images/NO_IR/pen/pen_23.jpg,0.7137774,pen,173.4
+new_images/NO_IR/pen/pen_24.jpg,0.7320716,pen,88.1
+new_images/NO_IR/pen/pen_25.jpg,0.66933167,pen,175.1
+new_images/NO_IR/pen/pen_26.jpg,0.83718616,pen,260.9
+new_images/NO_IR/pen/pen_27.jpg,0.7593408,pen,344.7
+new_images/NO_IR/pen/pen_28.jpg,0.88026726,pen,428.0
+new_images/NO_IR/pen/pen_29.jpg,0.8279627,pen,510.0
+new_images/NO_IR/pen/pen_30.jpg,0.83809125,pen,594.0
+new_images/NO_IR/pen/pen_31.jpg,0.8520155,pen,672.0
+new_images/NO_IR/pen/pen_32.jpg,0.78189147,pen,752.0
+new_images/NO_IR/pen/pen_33.jpg,0.81661385,pen,798.0
+new_images/NO_IR/pen/pen_34.jpg,0.8863176,pen,827.0
+new_images/NO_IR/pen/pen_35.jpg,0.92292804,pen,901.0
+new_images/NO_IR/pen/pen_36.jpg,0.7733493,pen,973.0
+new_images/NO_IR/pen/pen_37.jpg,0.8995879,pen,1037.0
+new_images/NO_IR/pen/pen_38.jpg,0.6834811,pen,1104.0
+new_images/NO_IR/pen/pen_39.jpg,0.8270665,pen,1170.0
+new_images/NO_IR/pen/pen_40.jpg,0.8578162,pen,1235.0
+new_images/NO_IR/pen/pen_41.jpg,0.9155968,pen,1299.0
+new_images/NO_IR/pen/pen_42.jpg,0.9252738,pen,1359.0
+new_images/NO_IR/pen/pen_43.jpg,0.35895652,pen,1419.0
+new_images/NO_IR/pen/pen_44.jpg,0.0,None,1474.0
+new_images/NO_IR/pen/pen_45.jpg,0.0,None,1531.0
+new_images/NO_IR/pen/pen_46.jpg,0.0,None,1583.0
+new_images/NO_IR/pen/pen_47.jpg,0.77813655,pen,1635.0
+new_images/NO_IR/fork/fork_1.jpg,0.4637203,fork,1613.0
+new_images/NO_IR/fork/fork_2.jpg,0.84233534,fork,1558.0
+new_images/NO_IR/fork/fork_3.jpg,0.55130637,fork,1503.0
+new_images/NO_IR/fork/fork_4.jpg,0.58915395,fork,1448.0
+new_images/NO_IR/fork/fork_5.jpg,0.7695744,fork,1393.0
+new_images/NO_IR/fork/fork_6.jpg,0.7615672,fork,1338.0
+new_images/NO_IR/fork/fork_7.jpg,0.7015914,fork,1283.0
+new_images/NO_IR/fork/fork_8.jpg,0.7226478,fork,1226.0
+new_images/NO_IR/fork/fork_9.jpg,0.36260656,fork,1171.0
+new_images/NO_IR/fork/fork_10.jpg,0.36613423,fork,1108.0
+new_images/NO_IR/fork/fork_11.jpg,0.55610496,fork,1047.0
+new_images/NO_IR/fork/fork_12.jpg,0.0,None,983.0
+new_images/NO_IR/fork/fork_13.jpg,0.0,None,927.0
+new_images/NO_IR/fork/fork_14.jpg,0.0,None,860.0
+new_images/NO_IR/fork/fork_15.jpg,0.38451776,screwdriver,790.0
+new_images/NO_IR/fork/fork_16.jpg,0.0,None,719.0
+new_images/NO_IR/fork/fork_17.jpg,0.41373312,screwdriver,649.0
+new_images/NO_IR/fork/fork_18.jpg,0.38199443,screwdriver,574.0
+new_images/NO_IR/fork/fork_19.jpg,0.33714554,screwdriver,494.0
+new_images/NO_IR/fork/fork_20.jpg,0.8542677,fork,416.0
+new_images/NO_IR/fork/fork_21.jpg,0.74247086,fork,337.6
+new_images/NO_IR/fork/fork_22.jpg,0.7864158,fork,256.1
+new_images/NO_IR/fork/fork_23.jpg,0.86752677,fork,173.4
+new_images/NO_IR/fork/fork_24.jpg,0.85988164,fork,88.1
+new_images/NO_IR/fork/fork_25.jpg,0.80218047,fork,175.1
+new_images/NO_IR/fork/fork_26.jpg,0.81235665,fork,260.9
+new_images/NO_IR/fork/fork_27.jpg,0.79077697,fork,344.7
+new_images/NO_IR/fork/fork_28.jpg,0.8503676,fork,428.0
+new_images/NO_IR/fork/fork_29.jpg,0.84386516,fork,510.0
+new_images/NO_IR/fork/fork_30.jpg,0.9124655,fork,594.0
+new_images/NO_IR/fork/fork_31.jpg,0.85937715,fork,672.0
+new_images/NO_IR/fork/fork_32.jpg,0.73409647,fork,752.0
+new_images/NO_IR/fork/fork_33.jpg,0.84213847,fork,798.0
+new_images/NO_IR/fork/fork_34.jpg,0.87659353,fork,827.0
+new_images/NO_IR/fork/fork_35.jpg,0.9172921,fork,901.0
+new_images/NO_IR/fork/fork_36.jpg,0.9388081,fork,973.0
+new_images/NO_IR/fork/fork_37.jpg,0.94191796,fork,1037.0
+new_images/NO_IR/fork/fork_38.jpg,0.9395173,fork,1104.0
+new_images/NO_IR/fork/fork_39.jpg,0.91098684,fork,1170.0
+new_images/NO_IR/fork/fork_40.jpg,0.9363904,fork,1235.0
+new_images/NO_IR/fork/fork_41.jpg,0.93502504,fork,1299.0
+new_images/NO_IR/fork/fork_42.jpg,0.8890673,fork,1359.0
+new_images/NO_IR/fork/fork_43.jpg,0.8729609,fork,1419.0
+new_images/NO_IR/fork/fork_44.jpg,0.6914222,fork,1474.0
+new_images/NO_IR/fork/fork_45.jpg,0.7380481,fork,1531.0
+new_images/NO_IR/fork/fork_46.jpg,0.5199863,fork,1583.0
+new_images/NO_IR/fork/fork_47.jpg,0.78511715,fork,1635.0
+new_images/NO_IR/marker/marker_1.jpg,0.72289217,marker,1613.0
+new_images/NO_IR/marker/marker_2.jpg,0.5449363,protoboard,1558.0
+new_images/NO_IR/marker/marker_3.jpg,0.53769594,protoboard,1503.0
+new_images/NO_IR/marker/marker_4.jpg,0.5657487,protoboard,1448.0
+new_images/NO_IR/marker/marker_5.jpg,0.5304685,protoboard,1393.0
+new_images/NO_IR/marker/marker_6.jpg,0.43509236,protoboard,1338.0
+new_images/NO_IR/marker/marker_7.jpg,0.5463046,marker,1283.0
+new_images/NO_IR/marker/marker_8.jpg,0.5277337,marker,1226.0
+new_images/NO_IR/marker/marker_9.jpg,0.50938755,marker,1171.0
+new_images/NO_IR/marker/marker_10.jpg,0.509327,marker,1108.0
+new_images/NO_IR/marker/marker_11.jpg,0.47453955,marker,1047.0
+new_images/NO_IR/marker/marker_12.jpg,0.5042424,marker,983.0
+new_images/NO_IR/marker/marker_13.jpg,0.38667396,marker,927.0
+new_images/NO_IR/marker/marker_14.jpg,0.37413138,protoboard,860.0
+new_images/NO_IR/marker/marker_15.jpg,0.4148618,marker,790.0
+new_images/NO_IR/marker/marker_16.jpg,0.77382654,marker,719.0
+new_images/NO_IR/marker/marker_17.jpg,0.82931167,marker,649.0
+new_images/NO_IR/marker/marker_18.jpg,0.9338187,marker,574.0
+new_images/NO_IR/marker/marker_19.jpg,0.9763851,marker,494.0
+new_images/NO_IR/marker/marker_20.jpg,0.9951472,marker,416.0
+new_images/NO_IR/marker/marker_21.jpg,0.99057215,marker,337.6
+new_images/NO_IR/marker/marker_22.jpg,0.98276854,marker,256.1
+new_images/NO_IR/marker/marker_23.jpg,0.98096573,marker,173.4
+new_images/NO_IR/marker/marker_24.jpg,0.99209607,marker,88.1
+new_images/NO_IR/marker/marker_25.jpg,0.9894121,marker,175.1
+new_images/NO_IR/marker/marker_26.jpg,0.9882787,marker,260.9
+new_images/NO_IR/marker/marker_27.jpg,0.9906116,marker,344.7
+new_images/NO_IR/marker/marker_28.jpg,0.9841434,marker,428.0
+new_images/NO_IR/marker/marker_29.jpg,0.98090637,marker,510.0
+new_images/NO_IR/marker/marker_30.jpg,0.9857845,marker,594.0
+new_images/NO_IR/marker/marker_31.jpg,0.9867967,marker,672.0
+new_images/NO_IR/marker/marker_32.jpg,0.9869208,marker,752.0
+new_images/NO_IR/marker/marker_33.jpg,0.98936003,marker,798.0
+new_images/NO_IR/marker/marker_34.jpg,0.98140574,marker,827.0
+new_images/NO_IR/marker/marker_35.jpg,0.9879012,marker,901.0
+new_images/NO_IR/marker/marker_36.jpg,0.9780734,marker,973.0
+new_images/NO_IR/marker/marker_37.jpg,0.94730365,marker,1037.0
+new_images/NO_IR/marker/marker_38.jpg,0.92264235,marker,1104.0
+new_images/NO_IR/marker/marker_39.jpg,0.82697254,marker,1170.0
+new_images/NO_IR/marker/marker_40.jpg,0.9461241,marker,1235.0
+new_images/NO_IR/marker/marker_41.jpg,0.9797122,marker,1299.0
+new_images/NO_IR/marker/marker_42.jpg,0.9661046,marker,1359.0
+new_images/NO_IR/marker/marker_43.jpg,0.987137,marker,1419.0
+new_images/NO_IR/marker/marker_44.jpg,0.9784041,marker,1474.0
+new_images/NO_IR/marker/marker_45.jpg,0.86014885,marker,1531.0
+new_images/NO_IR/marker/marker_46.jpg,0.8133805,marker,1583.0
+new_images/NO_IR/marker/marker_47.jpg,0.82004833,marker,1635.0
+new_images/NO_IR/arduino/arduino_1.jpg,0.88063276,arduino,1613.0
+new_images/NO_IR/arduino/arduino_2.jpg,0.89584255,arduino,1558.0
+new_images/NO_IR/arduino/arduino_3.jpg,0.8918535,arduino,1503.0
+new_images/NO_IR/arduino/arduino_4.jpg,0.91552556,arduino,1448.0
+new_images/NO_IR/arduino/arduino_5.jpg,0.90817904,arduino,1393.0
+new_images/NO_IR/arduino/arduino_6.jpg,0.92325795,arduino,1338.0
+new_images/NO_IR/arduino/arduino_7.jpg,0.92222834,arduino,1283.0
+new_images/NO_IR/arduino/arduino_8.jpg,0.9323383,arduino,1226.0
+new_images/NO_IR/arduino/arduino_9.jpg,0.9317749,arduino,1171.0
+new_images/NO_IR/arduino/arduino_10.jpg,0.9268092,arduino,1108.0
+new_images/NO_IR/arduino/arduino_11.jpg,0.9419721,arduino,1047.0
+new_images/NO_IR/arduino/arduino_12.jpg,0.93212885,arduino,983.0
+new_images/NO_IR/arduino/arduino_13.jpg,0.9412769,arduino,927.0
+new_images/NO_IR/arduino/arduino_14.jpg,0.9440645,arduino,860.0
+new_images/NO_IR/arduino/arduino_15.jpg,0.9405677,arduino,790.0
+new_images/NO_IR/arduino/arduino_16.jpg,0.9354531,arduino,719.0
+new_images/NO_IR/arduino/arduino_17.jpg,0.94034266,arduino,649.0
+new_images/NO_IR/arduino/arduino_18.jpg,0.93490815,arduino,574.0
+new_images/NO_IR/arduino/arduino_19.jpg,0.9328898,arduino,494.0
+new_images/NO_IR/arduino/arduino_20.jpg,0.93394184,arduino,416.0
+new_images/NO_IR/arduino/arduino_21.jpg,0.94285756,arduino,337.6
+new_images/NO_IR/arduino/arduino_22.jpg,0.93662775,arduino,256.1
+new_images/NO_IR/arduino/arduino_23.jpg,0.9332587,arduino,173.4
+new_images/NO_IR/arduino/arduino_24.jpg,0.9234805,arduino,88.1
+new_images/NO_IR/arduino/arduino_25.jpg,0.93732285,arduino,175.1
+new_images/NO_IR/arduino/arduino_26.jpg,0.9435315,arduino,260.9
+new_images/NO_IR/arduino/arduino_27.jpg,0.9175755,arduino,344.7
+new_images/NO_IR/arduino/arduino_28.jpg,0.92678195,arduino,428.0
+new_images/NO_IR/arduino/arduino_29.jpg,0.9278505,arduino,510.0
+new_images/NO_IR/arduino/arduino_30.jpg,0.91959715,arduino,594.0
+new_images/NO_IR/arduino/arduino_31.jpg,0.91363025,arduino,672.0
+new_images/NO_IR/arduino/arduino_32.jpg,0.92849356,arduino,752.0
+new_images/NO_IR/arduino/arduino_33.jpg,0.93009454,arduino,798.0
+new_images/NO_IR/arduino/arduino_34.jpg,0.93201303,arduino,827.0
+new_images/NO_IR/arduino/arduino_35.jpg,0.94262,arduino,901.0
+new_images/NO_IR/arduino/arduino_36.jpg,0.9465913,arduino,973.0
+new_images/NO_IR/arduino/arduino_37.jpg,0.95332414,arduino,1037.0
+new_images/NO_IR/arduino/arduino_38.jpg,0.9415381,arduino,1104.0
+new_images/NO_IR/arduino/arduino_39.jpg,0.94558394,arduino,1170.0
+new_images/NO_IR/arduino/arduino_40.jpg,0.94244045,arduino,1235.0
+new_images/NO_IR/arduino/arduino_41.jpg,0.9435071,arduino,1299.0
+new_images/NO_IR/arduino/arduino_42.jpg,0.9373804,arduino,1359.0
+new_images/NO_IR/arduino/arduino_43.jpg,0.93179107,arduino,1419.0
+new_images/NO_IR/arduino/arduino_44.jpg,0.9358066,arduino,1474.0
+new_images/NO_IR/arduino/arduino_45.jpg,0.9346819,arduino,1531.0
+new_images/NO_IR/arduino/arduino_46.jpg,0.9318419,arduino,1583.0
+new_images/NO_IR/arduino/arduino_47.jpg,0.92555374,arduino,1635.0
